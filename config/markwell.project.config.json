@@ -1,0 +1,27 @@
+{
+  "project": "MarkWell",
+  "repository": "theslavage/markWell",
+  "version": "0.1",
+  "role": "brand-system-and-project-context",
+  "owner_role": "Art Director",
+  "main_product": "MarkWell / MW One dust extractor for manicure and pedicure masters",
+  "brand_keywords": [
+    "premium",
+    "technology",
+    "clean",
+    "air",
+    "dust control",
+    "health",
+    "comfort",
+    "workspace system",
+    "BORK/Dyson/Apple level"
+  ],
+  "visual_code": {
+    "backgrounds": ["dark blue", "graphite", "deep black", "ultra-light optional"],
+    "accent": "soft blue glow",
+    "materials": ["3D renders", "particles", "airflow", "filters", "clean product photography"],
+    "style": "minimal premium tech with lots of space"
+  },
+  "memory_policy": "Save stable facts to ChatGPT memory only after explicit user command: запиши в память",
+  "source_of_truth": "GitHub repository files"
+}
